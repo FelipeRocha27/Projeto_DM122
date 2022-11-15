@@ -9,7 +9,6 @@ self.addEventListener("install", function (e) {
           "./",
           "/icons/list256.png",
           "/icons/list512.png",
-          "/icons/sorvete.png",
           "/manifest.json",
           "/index.js",
           "/index.html",
